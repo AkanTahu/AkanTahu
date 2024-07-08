@@ -1,4 +1,4 @@
-<iframe src="https://giphy.com/embed/l1J9Li0X2Ib1VbLmo" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/spursofficial-football-soccer-l1J9Li0X2Ib1VbLmo">via GIPHY</a></p>
+<img src=""https://giphy.com/gifs/spursofficial-football-soccer-l1J9Li0X2Ib1VbLmo" alt="flask" width="400" height="269"/>
 <h1 align="center">Hi 👋, I'm Chamzal Noer Haiky</h1>
 <h3 align="center">Interested in Fullstack Web Developer and Machine Learning especially CNN . I have experience in SQL and Laravel.</h3>
 
