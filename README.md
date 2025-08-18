@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://isal-portofolio.vercel.app/](https://isal-portofolio.vercel.app/)
 
-- 📄 Know about my experiences [https://shorturl.at/BfDrP](https://shorturl.at/BfDrP)
+- 📄 Know about my experiences https://bit.ly/chamzalCV
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
