@@ -4,11 +4,11 @@
 <h1 align="center">Hi 👋, I'm Chamzal Noer Haiky</h1>
 <h3 align="center">Interested in Fullstack Web Developer and Machine Learning especially CNN . I have experience in SQL and Laravel.</h3>
 
-- 🌱 I’m currently learning **Tailwind, API, and React JS**
+- 🌱 I’m currently learning **React JS**
 
 - 👨‍💻 All of my projects are available at [https://isal-portofolio.vercel.app/](https://isal-portofolio.vercel.app/)
 
-- 📄 Know about my experiences https://bit.ly/chamzalCV
+- 📄 Know about my experiences https://bit.ly/chamzalCV6okt
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
