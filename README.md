@@ -2,7 +2,7 @@
     <img width="33%" src="https://github.com/AkanTahu/AkanTahu/assets/93560711/cec2ad98-6537-4e05-b446-d5243c9cb644">
 </p>
 <h1 align="center">Hi 👋, I'm Chamzal Noer Haiky</h1>
-<h3 align="center">Interested in Fullstack Web Developer and Machine Learning especially CNN . I have experience in SQL and Laravel.</h3>
+<h3 align="center">Interested in Fullstack Web Developer . I have experience in SQL and Laravel.</h3>
 
 - 🌱 I’m currently learning **React JS**
 
