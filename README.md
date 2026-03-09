@@ -1,5 +1,5 @@
 <p align="center" width="100%">
-  <img src="https://github.com/user-attachments/assets/b3d3cd2f-7cb5-4df0-bcac-5336f43ca580" />
+  <img width="33%" src="https://github.com/user-attachments/assets/b3d3cd2f-7cb5-4df0-bcac-5336f43ca580" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Chamzal Noer Haiky</h1>
