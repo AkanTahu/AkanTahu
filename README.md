@@ -1,5 +1,5 @@
 <p align="center" width="100%">
-    ![5b5a09137714615 620fda64c439a](https://github.com/AkanTahu/assets/50b5394f-2aca-4524-b7d0-1b3f84c5bed9)    
+     ![5b5a09137714615 620fda64c439a](https://github.com/user-attachments/assets/b3d3cd2f-7cb5-4df0-bcac-5336f43ca580)
 </p
 
 <h1 align="center">Hi 👋, I'm Chamzal Noer Haiky</h1>
