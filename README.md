@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://isal-portofolio.vercel.app/](https://isal-portofolio.vercel.app/)
 
-- 📄 Know about my experiences https://bit.ly/chamzalCV6okt
+- 📄 Know about my experiences https://bit.ly/4cX13LO
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
