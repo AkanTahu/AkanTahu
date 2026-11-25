@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Chamzal Noer Haiky</h1>
 <h3 align="center">Interested in Fullstack Web Developer . I have experience in SQL and Laravel.</h3>
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 learn
 
 - 👨‍💻 All of my projects are available at [https://isal-portofolio.vercel.app/](https://isal-portofolio.vercel.app/)
 
